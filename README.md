@@ -1,16 +1,44 @@
-# daily_expense
+# 📊 TrackR – Daily Expense Tracker App
 
-A new Flutter project.
+TrackR is a simple and intuitive **Flutter-based daily expense tracking application** that helps users manage and monitor their expenses efficiently. The app provides an easy way to record daily spending, view expense summaries, and maintain better financial control.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Add daily expenses with amount and category  
+- 🗑️ Delete expenses easily  
+- 📅 Track expenses by date  
+- 📊 Visual representation of spending (charts)  
+- 🎨 Clean and minimal user interface  
+- ⚡ Fast and smooth performance  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** – UI framework  
+- **Dart** – Programming language  
+- **Provider** – State management  
+- **Material Design** – UI components  
+
+---
+
+## 📱 Platforms Supported
+
+- ✅ Android  
+- 🚧 iOS (can be extended)  
+
+---
+
+## 🧠 Project Purpose
+
+This project was developed to:
+- Learn Flutter app development  
+- Understand state management using Provider  
+- Practice clean UI design and app architecture  
+- Build a real-world mobile application  
+
+---
+
+
