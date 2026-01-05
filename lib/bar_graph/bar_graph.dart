@@ -68,6 +68,7 @@ class MyBarGraph extends StatelessWidget {
             sideTitles: SideTitles(
               showTitles: true,
               getTitlesWidget: getBottomTitles,
+              reservedSize: 25
             )
           )
         ),
